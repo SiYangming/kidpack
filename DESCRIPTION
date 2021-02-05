@@ -1,0 +1,19 @@
+Package: kidpack
+Version: 1.32.0
+Date: 16 September 2007
+Title: DKFZ kidney package
+Author: Wolfgang Huber <huber@ebi.ac.uk>
+Depends: R (>= 2.6.0), Biobase (>= 2.5.5)
+Maintainer: Wolfgang Huber <huber@ebi.ac.uk>
+Description: kidney microarray data
+License: GPL-2
+URL: http://www.dkfz.de/mga
+biocViews: ExperimentData, CancerData, KidneyCancerData,
+        MicroarrayData, ArrayExpress
+git_url: https://git.bioconductor.org/packages/kidpack
+git_branch: RELEASE_3_12
+git_last_commit: d6074d5
+git_last_commit_date: 2020-10-27
+Date/Publication: 2020-10-29
+NeedsCompilation: no
+Packaged: 2020-10-29 15:01:34 UTC; biocbuild
